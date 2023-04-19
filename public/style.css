@@ -18,3 +18,11 @@ div {
     border-radius: 0.5vmin;
     transition: filter .5s;
 }
+#mainMenu {
+    position: absolute;
+    padding: 0;
+    margin: 0;
+    left: 2vmin;
+    top: 2vmin;
+    display: none;
+}
