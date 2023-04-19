@@ -6,3 +6,15 @@
 div {
     display: block;
 }
+.link {
+    display: inline-block;
+    position: relative;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-width: 2vmin;
+    min-height: 2vmin;
+    padding: 2vmin;
+    border-radius: 0.5vmin;
+    transition: filter .5s;
+}
