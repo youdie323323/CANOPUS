@@ -1,1 +1,8 @@
-
+#discord {
+    background-image: url(./resources/icons/discord.svg);
+    background-color: #5865F2;
+    border: .5vmin solid #4752c4;
+}
+div {
+    display: block;
+}
