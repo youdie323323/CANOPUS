@@ -11,3 +11,11 @@ for (var i = 0; i < changeLog.length; i++) {
     listItem.textContent = changeLog[i];
     changeLogList.appendChild(listItem);
 }
+
+function showChangeLog() {
+    changeLogList.style.display = "block";
+}
+
+function hideChangeLog() {
+    changeLogList.style.display = "none";
+}
